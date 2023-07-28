@@ -1,0 +1,21 @@
+div {
+  margin: 0 auto;
+}
+iframe {
+  opacity: 0.9;
+  background-color: #333 !important;
+}
+header {
+  font-size: 40px;
+  text-align: center;
+  margin: 100px auto 50px;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: #c03540;
+}
+
+body {
+  background: url('https://zipmex.com/static/dce64668a623f89f3c4e1cbc99431927/c63eb/Azuki-NFTs.png')
+    top center/cover;
+  display: flex;
+}
